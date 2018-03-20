@@ -9,6 +9,7 @@ url: 'https://nativyeiko.github.io/site-projet/'
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
   - jekyll-admin
