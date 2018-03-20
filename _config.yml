@@ -13,3 +13,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-admin
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
