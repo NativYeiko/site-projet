@@ -7,7 +7,7 @@ description: >-
 baseurl: site-projet
 url: 'https://nativyeiko.github.io/site-projet/'
 twitter_username: jekyllrb
-github_username: jekyll
+github_username: Yeiko
 markdown: kramdown
 theme: jekyll-theme-minima
 plugins:
