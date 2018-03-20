@@ -20,5 +20,3 @@ jekyll_admin:
     - staticfiles
     - datafiles
     - configuration
-
-theme: jekyll-theme-minimal
